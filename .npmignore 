@@ -1,0 +1,15 @@
+.github
+.husky
+coverage
+node_modules
+reports
+src
+.babelrc
+.eslintrc.js
+.prettierrc
+commitlint.config.ts
+jest.config.ts
+lint-staged.config.js
+tsconfig.eslint.json
+tsconfig.json
+webpack.config.js
